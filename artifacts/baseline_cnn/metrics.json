@@ -1,0 +1,13 @@
+{
+  "best_epoch": 27,
+  "best_val_acc": 0.4417574303119808,
+  "test_loss": 1.7000382959113651,
+  "test_acc": 0.4312145081516761,
+  "device": "mps",
+  "train_size": 43429,
+  "val_size": 5417,
+  "test_size": 5459,
+  "num_classes": 38,
+  "model_name": "baseline",
+  "checkpoint_evaluated": "artifacts/baseline_cnn/best.pth"
+}

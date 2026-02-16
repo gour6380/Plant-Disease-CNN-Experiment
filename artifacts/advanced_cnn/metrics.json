@@ -1,0 +1,13 @@
+{
+  "best_epoch": 29,
+  "best_val_acc": 0.9942772752446003,
+  "test_loss": 0.02164631734227754,
+  "test_acc": 0.994321304268181,
+  "device": "mps",
+  "train_size": 43429,
+  "val_size": 5417,
+  "test_size": 5459,
+  "num_classes": 38,
+  "model_name": "advanced",
+  "checkpoint_evaluated": "artifacts/advanced_cnn/best.pth"
+}

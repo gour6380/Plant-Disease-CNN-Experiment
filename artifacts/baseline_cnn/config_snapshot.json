@@ -1,0 +1,9 @@
+{
+  "device": "mps",
+  "num_workers": 4,
+  "pin_memory": false,
+  "prefetch_factor": 4,
+  "persistent_workers": true,
+  "model_name": "baseline",
+  "resolved_output_dir": "artifacts/baseline_cnn"
+}
